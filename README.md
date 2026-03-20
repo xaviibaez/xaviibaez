@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! I'm Xavi Ibáñez Martínez 👋</h1>
 
 <p align="center">
-  <b>Software Engineer @ BBVA Technology</b> · Barcelona, Spain
+  <b>Software Engineer @ <a href="https://github.com/BBVA">BBVA Technology</a></b> · Barcelona, Spain
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ Dedicated software engineer with **7+ years of experience** building robust back
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2023 – Present | Software Engineer | **BBVA Technology** |
-| 2022 – 2023 | Software Engineer | **Hiberus** |
-| 2020 – 2022 | Software Engineer | **BABEL** |
-| 2018 – 2020 | Software Engineer | **EY** |
+| 2023 – Present | Software Engineer | [**BBVA Technology**](https://github.com/BBVA) |
+| 2022 – 2023 | Software Engineer | [**Hiberus**](https://www.hiberus.com) |
+| 2020 – 2022 | Software Engineer | [**BABEL**](https://www.babelgroup.com) |
+| 2018 – 2020 | Software Engineer | [**EY**](https://www.ey.com) |
